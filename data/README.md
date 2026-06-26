@@ -13,3 +13,4 @@ You're tasked with the goal of figuring out the general sentiment that customers
 ## Unstructured data
 
 The unstructured version of the data is provided in the `.zip` file (that contains a collection of `DOCX` files).
+TO JE TEST
