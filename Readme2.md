@@ -40,3 +40,6 @@ This GitHub repository provides a straightforward project structure, pre-loaded 
 You can either follow along with the provided files or write your own code as you progress. The video series typically builds upon previous sessions, allowing you to continue developing your solutions or refer to the provided working solutions within each lesson.
 
 Happy coding!
+
+
+BLA BOLA
